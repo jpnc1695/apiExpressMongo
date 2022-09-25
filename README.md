@@ -57,10 +57,10 @@ Abra o seu browser e verifique se o apiExpressMongo está funcionando acessando:
 `https://jpnc1695nodeapi.herokuapp.com/tags`
 ### Put
 `https://jpnc1695nodeapi.herokuapp.com/links/:id`</br>
-`https://jpnc1695nodeapi.herokuapp.com/tags`/:id
+`https://jpnc1695nodeapi.herokuapp.com/tags/:id`
 ### Delete
 `https://jpnc1695nodeapi.herokuapp.com/links/:id`</br>
-`https://jpnc1695nodeapi.herokuapp.com/tags`/:id
+`https://jpnc1695nodeapi.herokuapp.com/tags/:id`
 
 ## Linguagens, dependencias e libs utilizadas :books:
 
